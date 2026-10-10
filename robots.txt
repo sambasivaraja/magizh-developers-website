@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://magizhdevelopers.co.in/sitemap.xml
